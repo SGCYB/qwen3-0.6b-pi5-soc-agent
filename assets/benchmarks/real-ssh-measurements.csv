@@ -1,0 +1,3 @@
+run,final_state,wazuh_to_persist_s,queue_wait_s,gateway_elapsed_s,generation_s,wazuh_to_gateway_done_s
+A,delivered,1.377,0.474,95.036,95.0143,96.886
+B,delivered,0.600,0.600,96.871,96.853,98.072
